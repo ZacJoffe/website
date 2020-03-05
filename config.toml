@@ -27,8 +27,8 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
 [params]
   dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
+  dateformShort   = "Jan 2" 
+  dateformNum     = "2006-01-02" 
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
@@ -79,6 +79,11 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   [[menu.main]]
     name = "Contact"
     url = "contact/"
+    weight = 10
+
+  [[menu.main]]
+    name = "Resume"
+    url = "resume/zac_joffe_resume.pdf"
     weight = 10
 
 
