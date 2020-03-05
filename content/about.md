@@ -1,19 +1,13 @@
 +++
-title = "About Hugo"
+title = "About Me"
 date = "2014-04-09"
 +++
 
-Resume: [pdf](/resume/zac_joffe_resume.pdf)
+I'm a second-year Software Engineering student at the University of Waterloo in the class of 2023.
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+Currently, I'm working at TextNow as a Backend Engineering Intern. I love all aspects about Software Engineering and plan to explore as much as I can throughout my education.
 
-It makes use of a variety of open source projects including:
+I'm always working on something cool! See my [GitHub](https://github.com/ZacJoffe) or the [Projects](/projects) section of the site for more.
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+In my spare time, I enjoy programming, [Hi-Fi](https://www.reddit.com/r/headphones/), video games, and occasionally drinking craft beer.
 
