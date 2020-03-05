@@ -1,13 +1,23 @@
 +++
-title = "About Me"
+title = "Projects"
 date = "2014-04-09"
 +++
 
-I'm a second-year Software Engineering student at the University of Waterloo in the class of 2023.
+### [Chip8 Emulator](https://github.com/ZacJoffe/chip8-emulator)
+Emulators have always fascinated me. While I've been recently working hard implementing more complex systems, I started off with emulating the [Chip8](https://en.wikipedia.org/wiki/CHIP-8) interpreted programming language. The project was a great experience and I love writing Rust!
 
-Currently, I'm working at TextNow as a Backend Engineering Intern. I love all aspects about Software Engineering and plan to explore as much as I can throughout my education.
+### [Tetris](https://github.com/ZacJoffe/sdl-tetris)
+I've always wanted to write a Tetris clone. Last year I started writing it in Lua with the LÖVE framework (which I experimented with back in high school) but got bogged down by school and job searching to really get into it. So when I realized I had the time, I jumped on the opportunity. I took this project as a way to further familiarize myself with C++ and learn about SDL2 and game development. 
 
-I'm always working on something cool! See my [GitHub](https://github.com/ZacJoffe) or the [Projects](/projects) section of the site for more.
+It was a lot of work, but I'm thrilled with the results and cannot wait to do something like this again in the future! My goal was to make an accurate clone of the original game. I developed several data structures to handle things like the tetromino queue, screen objects, and piece holding. It was an enjoyable project; I learnt a lot about C++, 2D graphics, game development and SDL2. 
 
-In my spare time, I enjoy programming, [Hi-Fi](https://www.reddit.com/r/headphones/), video games, and occasionally drinking craft beer.
+### [Screenshot App](https://github.com/ZacJoffe/screenshot)
+This is mainly a command line app written in Golang to automate taking and sharing screenshots for my Linux system. Inspired by ShareX, an app I used to love back when I used Windows, this app takes screenshots of a screen region and copies it to the clipboard. With a flag, you can instead upload the screenshot to Imgur. To do this, I wrote a library to consume Imgur's REST API, as well as reverse-engineering the request to use quad.pe, a lightweight alternative to Imgur. 
 
+I also wrote libraries to use Gfycat for uploading gifs. To get the clipboard working, I wrote wrapper libraries for both xclip and xsel. And, lastly, the app was written using Cobra, the same framework used to write the CLI for Docker and Kubernetes. I've bound keys to run the command via my hotkey manager (which can be found in my dotfiles repository, link to that below), so I don't even need a terminal to use it! It was designed specifically for that task and does everything I need it to do. 
+
+### [Dotfiles](https://github.com/ZacJoffe/dotfiles)
+Over the last 2 years or so, I've put a lot of effort into writing configuration files for various *nix programs. I've focused on creating simplistic configurations that suite needs and optimize my workflow, and continue improving and adding to what's already there.
+
+### [Rubik's Cube Solving Robot](https://github.com/ZacJoffe/two-by-two-solver)
+For our final project in my first semester, we had to build a Lego Mindstorm EV3 robot to do something cool. Me and two other people made a robot that solves a 2x2 Rubik's cube. We used an open source algorithm to determine the solution of a given scramble, and the robot executed the moves to solve the cube generally in 10 turns or less. 
