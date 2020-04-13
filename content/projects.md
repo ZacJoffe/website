@@ -20,4 +20,4 @@ I also wrote libraries to use Gfycat for uploading gifs. To get the clipboard wo
 Over the last 2 years or so, I've put a lot of effort into writing configuration files for various *nix programs. I've focused on creating simplistic configurations that suite needs and optimize my workflow, and continue improving and adding to what's already there.
 
 ### [Rubik's Cube Solving Robot](https://github.com/ZacJoffe/two-by-two-solver)
-For our final project in my first semester, we had to build a Lego Mindstorm EV3 robot to do something cool. Me and two other people made a robot that solves a 2x2 Rubik's cube. We used an open source algorithm to determine the solution of a given scramble, and the robot executed the moves to solve the cube generally in 10 turns or less. 
+For our final project in my first semester, we had to build a Lego Mindstorm EV3 robot to do something interesting. Two other people and I made a robot that solves a 2x2 Rubik's cube. We used an algorithm that determines a near-optimal solution of a given scramble (10 turns or less) and programmed the robot to execute the moves to solve the cube. 
