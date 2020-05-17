@@ -3,6 +3,11 @@ title = "Projects"
 date = "2014-04-09"
 +++
 
+### [znes - Zac's Nintendo Entertainment System](https://github.com/ZacJoffe/znes)
+I loved working on Chip8, and was ready to write another emulator. With the release of [One Lone Coder's excellent NES series](https://www.youtube.com/watch?v=nViZg02IMQo&list=PLrOv9FMX8xJHqMvSGB_9G9nZZ_4IgteYf), I knew this was going to be my next big project. The scope of this considerably larger than Chip8, and any other of my previous projects, but after months of development, I can finally say that it's mostly done. It runs over 1000 games seamlessly, more than I would ever have time to play through. I was even surprised to find out that games from the Japanese equivalent of the NES, the Famicon, work perfectly! Demos can be seen on the project's [readme](https://github.com/ZacJoffe/znes/blob/master/README.md).
+
+Like with Chip8, I used Rust and the [SDL2 bindings](https://github.com/Rust-SDL2/rust-sdl2) to build the emulation engine. What impressed me the most about researching this project was the fantastic community of NES reverse engineers who have documented everything you could ever need. The [Nesdev Wiki](https://wiki.nesdev.com/w/index.php/Nesdev_Wiki), in particular, is an indisposable resource for anything NES related. I learnt a lot about hardware, lower-level programming and computers in general during development, and I can't wait to keep improving znes once the school term is over.
+
 ### [Chip8 Emulator](https://github.com/ZacJoffe/chip8-emulator)
 Emulators have always fascinated me. While I've been recently working hard implementing more complex systems, I started off with emulating the [Chip8](https://en.wikipedia.org/wiki/CHIP-8) interpreted programming language. The project was a great experience and I love writing Rust!
 
