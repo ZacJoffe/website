@@ -3,9 +3,9 @@ title = "About Me"
 date = "2014-04-09"
 +++
 
-I'm a third-year Software Engineering student at the University of Waterloo in the class of 2023.
+I'm a third-year (3A) Software Engineering student at the University of Waterloo in the class of 2023.
 
-I am currently working at the FreeBSD Foundation as an Operating Systems Engineering Intern. I love all aspects about Software Engineering and plan to explore as much as I can throughout my education.
+I love all aspects about Software Engineering and plan to explore as much as I can throughout my education.
 
 I'm always working on something new! See my [GitHub](https://github.com/ZacJoffe) or the [Projects](/projects) section of the site for more.
 
