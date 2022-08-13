@@ -3,7 +3,7 @@ title = "About Me"
 date = "2014-04-09"
 +++
 
-I'm a third-year (3B) Software Engineering student at the University of Waterloo in the class of 2023.
+I'm a fourth-year (incoming 4B) Software Engineering student at the University of Waterloo in the class of 2023.
 
 I love all aspects about Software Engineering and plan to explore as much as I can throughout my education.
 
